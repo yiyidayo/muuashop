@@ -1,0 +1,35 @@
+
+.native{
+    width:2000px;
+    height:80px;
+    margin:0 auto;
+}
+
+.native .nav{
+   width:1600px;
+   height:100%;
+   line-height:40px;
+   margin:0 auto;
+
+}
+
+.native .nav li{
+    width:auto;
+    float:left;
+    padding:0 20px;
+    list-style:none;
+
+}
+
+.native .nav li input{
+    width:200px;
+    height:30px;
+    border:2px solid #DA70D6;
+    color:#DA70D6;
+    padding-left:5px;
+
+}
+
+.native .nav li:first-child{
+   margin-right:420px;
+}
